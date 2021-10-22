@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ I am Alberto Alonso a web developer who really enjoys coding. I like to work using javascript.
 <!--
 **AlbertDeHoz/AlbertDeHoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
