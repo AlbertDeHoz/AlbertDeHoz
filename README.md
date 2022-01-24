@@ -1,5 +1,22 @@
-### Hi there 👋
- I am Alberto Alonso a web developer who really enjoys coding. I like to work using javascript.
+# Hi there 👋
+
+ My name is Alberto, a web frontend developer, software developer, and Linux enthusiast. I graduated as a mechanical engineer and found in computer science a huge passion.
+
+## 💻 I feel quite comfortable writing code in...
+
+As a developer, I have tried different programing languages but, I feel so confident writing code in:
+
+- Python
+- Javascript/Typescript
+
+## 🧰 Frameworks
+
+I like using **React.js** to build web applications with just CSS for styles. By the way, I also like **Vue** and I also use Bulma (rarely Bootstrap) for rapid development.
+
+## ✍🏾 I'm Learning ...
+
+I work on my CSS styles skills such as *grid* and *flexbox*. ⚒️💈<br>
+On the other hand, lately, I have been interested in learning more in-depth computer stuff. That's how I've been touching languages like Rust and c++. 🦀 🧑🏾‍💻
 <!--
 **AlbertDeHoz/AlbertDeHoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
